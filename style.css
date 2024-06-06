@@ -61,15 +61,10 @@ button {
   /* flex-wrap:wrap-reverse; */
   text-transform: uppercase;
   cursor: pointer;
+  border-radius: 5px;
   color: #444;
   
 }
-
-/* .buttons button[disabled] {
-  opacity: 0.5;
-  pointer-events: none;
-  cursor: not-allowed;
-} */
 
 .timestamps {
   width: 55rem;
